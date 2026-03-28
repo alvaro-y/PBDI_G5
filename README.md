@@ -5,7 +5,7 @@
   
 | Integrantes |  Rol | Descripción | Contacto |
 |-------------|------|-------------|----------|
-|Alvaro Rusto Arohuanca Pezo |  Diseño de Software |
+|Alvaro Rusto Arohuanca Pezo |  Diseño de Software | oño | alvaroarohu@gmail.com |
 |Maria Fe Marquez Morales | Diseño 3d y Ensamblaje |
 |Lucero Milagros Mamani Casas | Diseño de Hardware |
 |Angela Tatiana Naveros Diaz | Lider y Desarrollo de ML |
