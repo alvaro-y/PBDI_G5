@@ -3,11 +3,13 @@
   <img src=
 </p>
   
-# Integrantes:
-1. Alvaro Rusto Arohuanca Pezo
-2. Maria Fe Marquez Morales   
-3. Lucero Milagros Mamani Casas
-4. Angela Tatiana Naveros Diaz
-5. Astrid Sophia Mejia Barreto
+| Integrantes |  Rol | Descripción | Contacto |
+|-------------|------|-------------|----------|
+|Alvaro Rusto Arohuanca Pezo |  Diseño de Software |
+|Maria Fe Marquez Morales | Diseño 3d y Ensamblaje |
+|Lucero Milagros Mamani Casas | Diseño de Hardware |
+|Angela Tatiana Naveros Diaz | Lider y Desarrollo de ML |
+|Astrid Sophia Mejia Barreto | Desarrollo de ML |
 
 # Foto grupal:
+
