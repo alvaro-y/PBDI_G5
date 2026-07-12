@@ -12,4 +12,4 @@
 |Astrid Sophia Mejia Barreto | Desarrollo de ML | Alumna de Ingenieria Biomedica con interes en biomecanica y rehabilitación | 
 
 # Foto grupal:
-
+[![Fotogrupal.jpg](https://i.postimg.cc/4xcBshcH/Fotogrupal.jpg)](https://postimg.cc/LJHzV5Nm)
