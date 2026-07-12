@@ -1,8 +1,10 @@
 # Proyectos de Biodiseño - Grupo 5
+
+##Tabla de roles
 <p aling="center">
   <img src=
 </p>
-  
+
 | Integrantes |  Rol | Descripción | Contacto |
 |-------------|------|-------------|----------|
 |Alvaro Rusto Arohuanca Pezo |  Diseño de Software | Alumno de Ingeniería biomédica con interés en ingeniería clínica y biomecánica. | alvaro.arohuanca@upch.pe |
